@@ -1,5 +1,5 @@
 <?php
 	phpinfo();
 	
-	var_dump("Adeusiau");
+	var_dump("Good Bye");
 ?>
